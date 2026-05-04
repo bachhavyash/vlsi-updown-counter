@@ -22,7 +22,7 @@ module counter_4bit_tb;
 
     initial begin
         $display("=======================================================");
-        $display(" 4-bit Up/Down Counter — Yashganesh Bachhav");
+        $display(" 4-bit Up/Down Counter ");
         $display("=======================================================");
         clk=0; rst=1; enable=0; up_down=1;
         #12; rst=0; enable=1;
