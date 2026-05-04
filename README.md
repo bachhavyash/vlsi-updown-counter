@@ -47,5 +47,5 @@ Count | Max | Min
 3. Paste files → Click **Run**
 
 ## Author
-**Yashganesh Bachhav** | B.E. EnTC | LGNSCOE Nashik  
+**Yashganesh Bachhav** | TE EnTC | LGNSCOE Nashik  
 VLSI Internship — CODTECH IT Solutions (Jan–Feb 2025)
